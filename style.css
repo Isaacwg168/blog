@@ -1,0 +1,27 @@
+
+.navbar {
+	margin: 0px;
+}
+
+.navbar-brand {
+  padding: 15px 15px;
+}
+
+.jumbotron { 
+	background:url(./pictures/background.jpg) center center;
+	margin:0px;
+	padding: 0px;
+}
+
+h2 {
+	color: #dde6f6;
+}
+
+#introduction {
+	top:120px;
+}
+
+#intro-text {
+	color:purple;
+	background: lightblue;
+}
